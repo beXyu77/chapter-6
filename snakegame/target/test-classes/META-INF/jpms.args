@@ -1,0 +1,4 @@
+--patch-module
+se233.snakegame=_
+--add-reads
+se233.snakegame=ALL-UNNAMED
